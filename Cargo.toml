@@ -25,7 +25,7 @@ escape8259 = "0.5.2"
 anstream = "0.6.14"
 anstyle = "1.0.7"
 
-reqwest = { version = "0.12", features = ["blocking"], optional = true }
+reqwest = { version = "0.13.0-rc", features = ["blocking"], optional = true }
 ping = { version = "0.7.1-beta", optional = true }
 sysinfo = { version = "0.37", optional = true }
 byte-unit = { version = "5.1", optional = true }
